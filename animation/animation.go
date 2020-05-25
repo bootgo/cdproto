@@ -9,8 +9,8 @@ package animation
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/bootgo/cdproto/cdp"
+	"github.com/bootgo/cdproto/runtime"
 )
 
 // DisableParams disables animation domain notifications.

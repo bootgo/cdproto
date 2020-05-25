@@ -12,7 +12,7 @@ package testing
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/bootgo/cdproto/cdp"
 )
 
 // GenerateTestReportParams generates a report for testing.

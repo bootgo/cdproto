@@ -12,7 +12,7 @@ package domsnapshot
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/bootgo/cdproto/cdp"
 )
 
 // DisableParams disables DOM snapshot agent for the given page.

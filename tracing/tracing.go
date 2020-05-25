@@ -9,7 +9,7 @@ package tracing
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/bootgo/cdproto/cdp"
 )
 
 // EndParams stop trace events collection.

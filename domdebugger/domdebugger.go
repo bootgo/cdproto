@@ -13,8 +13,8 @@ package domdebugger
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/bootgo/cdproto/cdp"
+	"github.com/bootgo/cdproto/runtime"
 )
 
 // GetEventListenersParams returns event listeners of the given object.

@@ -9,7 +9,7 @@ package database
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/bootgo/cdproto/cdp"
 	"github.com/mailru/easyjson"
 )
 
